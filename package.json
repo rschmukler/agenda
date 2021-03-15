@@ -57,7 +57,7 @@
   "devDependencies": {
     "@types/debug": "4.1.5",
     "@types/human-interval": "1.0.0",
-    "@types/mongodb": "3.6.6",
+    "@types/mongodb": "3.6.10",
     "@typescript-eslint/eslint-plugin": "4.15.2",
     "@typescript-eslint/parser": "4.15.2",
     "blanket": "1.2.3",
